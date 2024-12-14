@@ -4,7 +4,7 @@
 
 ## 🦉 Main information
 
-Split landing page built with Html5, CSS3 and Vanilla Js.
+Split landing page built with Html5, CSS3 and  Js.
 
 The project goal:
 - create split screen with a background image and a button inside
