@@ -1,6 +1,6 @@
 # Split Landing Page
 
-![cover](./assets/split.gif)
+![cover](./Split-Landing-Page.gif)
 
 ## 🦉 Main information
 
